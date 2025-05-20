@@ -9,5 +9,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a Guiness World Record for playing Tabla (indian musical instrument) for more than an hour and half with 300+ people in harmony.
 
-
+## My GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats-sigma-gray.vercel.app?user=Jay-Vora&theme=dark)](https://git.io/streak-stats)
